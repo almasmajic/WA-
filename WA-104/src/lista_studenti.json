@@ -1,0 +1,32 @@
+ {
+     "studenti": [{
+         "JMBAG" : "03031234",
+         "ime" : "Michael",
+         "prezime" : "Scott",
+         "godina_studija" : "1"
+     },
+    {
+        "JMBAG" : "03035678",
+        "ime" : "Angela",
+        "prezime" : "Schrute",
+        "godina_studija" : "5"
+    },
+    {
+        "JMBAG" : "03031278",
+        "ime" : "Pam",
+        "prezime" : "Halpert",
+        "godina_studija" : "3"
+    },
+    {
+        "JMBAG" : "03039854",
+        "ime" : "Oscar",
+        "prezime" : "Martinez",
+        "godina_studija" : "4"
+    },
+    {
+        "JMBAG" : "03031357",
+        "ime" : "Toby",
+        "prezime" : "Flenderson",
+        "godina_studija" : "3"
+    }]
+ }
