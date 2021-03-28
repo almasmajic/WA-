@@ -1,8 +1,11 @@
 import express from 'express';
 import moment from 'moment';
+import cors from 'cors';
 
 const app = express()
 const port = 3000
+
+app.use(cors())
 
 //Vraca trenutni datum i vrijeme u zadanom formatu
 app.get('/date', (req,res) => {
